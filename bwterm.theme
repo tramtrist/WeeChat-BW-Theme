@@ -4,7 +4,6 @@
 # $date: 2018-08-24
 # $weechat: 1.4
 # $script: theme.py 0.1-dev
-# Originiating from crym.theme and modified to remove most all colo(u)rs ＼(^o^)／
 #
 
 irc.color.input_nick = "7"
